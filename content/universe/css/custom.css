@@ -1,0 +1,41 @@
+.plus-title {
+  margin-left: 40% !important;
+  font-size: 60px !important;
+}
+
+.title-psr {
+  font-size: 60px !important;
+}
+
+.title-livro {
+  font-size: 30px;
+}
+
+.porque-prs {
+  margin-top: 15%;
+  width: 240px !important;
+  margin-left: 10%;
+  text-align: justify
+}
+
+.paraquem-prs {
+  margin-top: 15%;
+  text-align: justify;
+  width: 240px !important;
+  margin-left: 10%;
+}
+
+.espaçamento {
+  margin-top: 5%;
+}
+
+.logo-delta {
+  margin-top: 180% !important;
+  margin-left: 150% !important;
+}
+
+.answer-accordion {
+  color: white;
+  background-color: transparent !important;
+  text-align: center;
+}
