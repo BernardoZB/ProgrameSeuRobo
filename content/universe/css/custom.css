@@ -39,3 +39,28 @@
   background-color: transparent !important;
   text-align: center;
 }
+
+.answer-accordion-presencial {
+  color: white;
+  background-color: transparent !important;
+  text-align: left;
+}
+
+.responsive-menu-toggle {
+  display: none !important;
+}
+
+.horario {
+  width: 100px;
+}
+
+
+@media (max-width: 1085px) {
+  .responsive-menu-toggle {
+    display: block !important;
+  }
+
+  .item-menu-principal {
+    display: none !important;
+  }
+}
