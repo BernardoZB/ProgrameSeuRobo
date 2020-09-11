@@ -54,6 +54,9 @@
   width: 100px;
 }
 
+.desc {
+  text-align: justify;
+}
 
 @media (max-width: 1085px) {
   .responsive-menu-toggle {
@@ -62,5 +65,17 @@
 
   .item-menu-principal {
     display: none !important;
+  }
+}
+
+@media (max-width: 767px) {
+  .aviso {
+    margin-left: -30% !important;
+    width: 160% !important;
+  }
+
+  .evento-presencial {
+    margin-left: -30% !important;
+    width: 160% !important;
   }
 }
