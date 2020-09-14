@@ -1670,13 +1670,13 @@ a.tp-button {
 .button-stroke a.button,
 .button-stroke a.button .button_icon i,
 .button-stroke a.tp-button {
-	border-color: #f7f7f7;
-	color: #747474;
+	border-color: #D1DADF;
+	color: black;
 }
 
 .button-stroke a:hover.button,
 .button-stroke a:hover.tp-button {
-	background-color: #f7f7f7 !important;
+	background-color: #D1DADF !important;
 	color: #fff;
 }
 
@@ -1698,7 +1698,8 @@ input[type="button"] {
 .button-stroke input[type="reset"],
 .button-stroke input[type="button"] {
 	border-color: #d1dadf;
-	color: #d1dadf !important;
+	color: #d1dadf;
+	font-size: 16px;
 }
 
 .button-stroke a.button.button_theme:hover,
@@ -1707,8 +1708,9 @@ input[type="button"] {
 .button-stroke input[type="submit"]:hover,
 .button-stroke input[type="reset"]:hover,
 .button-stroke input[type="button"]:hover {
-	background-color: #d1dadf !important;
-	color: #ffffff !important;
+	background-color: #D1DADF !important;
+	color: #48AB77;
+	font-size: 16px;
 }
 
 a.mfn-link {

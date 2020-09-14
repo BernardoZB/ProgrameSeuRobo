@@ -1,10 +1,23 @@
+html {
+  scroll-behavior: smooth;
+}
+
 .plus-title {
   margin-left: 40% !important;
   font-size: 60px !important;
 }
 
+.btn-evento {
+  color: white !important;
+}
+
 .title-psr {
   font-size: 60px !important;
+}
+
+.btn-inscreva-se:hover {
+  background-color: #D1DADF !important;
+  color: #48AB77 !important;
 }
 
 .title-livro {
@@ -46,16 +59,24 @@
   text-align: left;
 }
 
-.responsive-menu-toggle {
-  display: none !important;
-}
-
 .horario {
   width: 100px;
 }
 
 .desc {
   text-align: justify;
+}
+
+.logo-rodape {
+  width: 100%;
+}
+
+.rodape {
+  margin-top: -5%;
+}
+
+.item-menu-main:hover {
+  color: #48AB77 !important;
 }
 
 @media (max-width: 1085px) {
