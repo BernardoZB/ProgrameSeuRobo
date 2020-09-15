@@ -694,7 +694,6 @@ input[type="button"] {
 	overflow: hidden;
 	-webkit-box-shadow: inset 0 0 0 1px rgba(0, 0, 0, .03);
 	box-shadow: inset 0 0 0 1px rgba(0, 0, 0, .03);
-	background-image: url(../images/box_shadow_button.png);
 	background-repeat: repeat-x;
 }
 
@@ -2845,7 +2844,6 @@ a:hover.tp-button.lightgrey {
 	-moz-box-sizing: border-box;
 	box-sizing: border-box;
 	background-color: #fff;
-	background-image: url(../images/stripes/stripes_3_b.png)
 }
 
 .chart_box .chart {
@@ -2911,7 +2909,6 @@ a:hover.tp-button.lightgrey {
 	text-align: center;
 	-webkit-border-radius: 5px;
 	border-radius: 5px;
-	background-image: url(../images/stripes/stripes_10_w.png)
 }
 
 .dropcap_circle {
@@ -2943,7 +2940,6 @@ a:hover.tp-button.lightgrey {
 	padding: 1px 7px;
 	-webkit-border-radius: 3px;
 	border-radius: 3px;
-	background-image: url(../images/stripes/stripes_10_w.png)
 }
 
 .highlight.highlight_image {
@@ -2975,7 +2971,6 @@ a:hover.tp-button.lightgrey {
 	bottom: 110%;
 	z-index: 98;
 	margin-left: -85px;
-	background-image: url(../images/stripes/stripes_10_w.png)
 }
 
 .tooltip.tooltip-img:after {
@@ -2996,7 +2991,6 @@ a:hover.tp-button.lightgrey {
 	bottom: 110%;
 	z-index: 98;
 	margin-left: -165px;
-	background-image: url(../images/stripes/stripes_10_w.png)
 }
 
 .tooltip.tooltip-img:hover .tooltip-content,
@@ -3029,7 +3023,6 @@ blockquote {
 	margin: 0 0 35px 25px;
 	top: 15px;
 	position: relative;
-	background: url(../images/stripes/textline.png) repeat-y
 }
 
 blockquote:before {
@@ -4657,7 +4650,6 @@ a.mfn-link-5:before {
 	border-width: 0;
 	border-style: solid;
 	cursor: pointer;
-	background-image: url(../images/bg_panel.png);
 	background-repeat: repeat-x;
 	background-position: left top
 }
@@ -4705,7 +4697,6 @@ a.mfn-link-5:before {
 	padding: 15px 20px 20px;
 	overflow: hidden;
 	display: none;
-	background-image: url(../images/box_shadow.png);
 	background-repeat: repeat-x;
 	background-position: left top
 }
@@ -4873,7 +4864,6 @@ table td {
 
 table th {
 	font-weight: 700;
-	background: url(../images/bg_panel.png) repeat-x left top
 }
 
 table th.clear {
@@ -4881,9 +4871,6 @@ table th.clear {
 	background: none
 }
 
-table tr:first-child td {
-	background: url(../images/box_shadow.png) repeat-x left top
-}
 
 table tr:nth-child(2n) td {
 	background: rgba(0, 0, 0, 0.01)
@@ -5057,7 +5044,6 @@ body.table-hover:not(.woocommerce-page) table tr:hover td {
 	float: left;
 	-webkit-border-radius: 100%;
 	border-radius: 100%;
-	background-image: url(../images/stripes/stripes_3_b.png);
 	-webkit-box-shadow: inset 0 0 5px 0 rgba(0, 0, 0, .08);
 	box-shadow: inset 0 0 5px 0 rgba(0, 0, 0, .08)
 }
@@ -5075,7 +5061,6 @@ body.table-hover:not(.woocommerce-page) table tr:hover td {
 .list_item.lists_1 .list_left {
 	-webkit-border-radius: 5px;
 	border-radius: 5px;
-	background-image: url(../images/stripes/stripes_3_b.png);
 	-webkit-box-shadow: inset 0 0 5px 0 rgba(0, 0, 0, .1);
 	box-shadow: inset 0 0 5px 0 rgba(0, 0, 0, .1)
 }
@@ -5865,7 +5850,6 @@ body.table-hover:not(.woocommerce-page) table tr:hover td {
 
 	.offer_thumb .slider_pagination a.selected {
 		background-color: #fff;
-		background-image: url(../images/stripes/stripes_3_b.png)
 	}
 
 	.offer_thumb .slider_pagination a img {
@@ -6317,7 +6301,6 @@ body.table-hover:not(.woocommerce-page) table tr:hover td {
 	display: block;
 	-webkit-border-radius: 100%;
 	border-radius: 100%;
-	background-image: url(../images/stripes/stripes_3_b.png)
 }
 
 .icon_box .icon_wrapper i {
@@ -6446,7 +6429,6 @@ body.table-hover:not(.woocommerce-page) table tr:hover td {
 	float: left;
 	padding: 10px 15px;
 	background-color: #f8f8f8;
-	background-image: url(../images/stripes/stripes_3_b.png);
 	-webkit-box-sizing: border-box;
 	-moz-box-sizing: border-box;
 	box-sizing: border-box
@@ -6745,7 +6727,6 @@ body.table-hover:not(.woocommerce-page) table tr:hover td {
 
 .counter {
 	padding: 20px;
-	background-image: url(../images/stripes/stripes_10_b.png);
 	text-align: center;
 	position: relative
 }
@@ -6828,7 +6809,6 @@ body.table-hover:not(.woocommerce-page) table tr:hover td {
 	-moz-box-sizing: border-box;
 	box-sizing: border-box;
 	background-color: #fff;
-	background-image: url(../images/stripes/stripes_3_b.png)
 }
 
 .chart_box .chart {
@@ -7067,7 +7047,6 @@ body.table-hover:not(.woocommerce-page) table tr:hover td {
 	margin-bottom: 15px;
 	-webkit-border-radius: 3px;
 	border-radius: 3px;
-	background-image: url(../images/stripes/stripes_10_w.png)
 }
 
 .trailer_box:hover .desc .subtitle {
@@ -7471,7 +7450,6 @@ a:hover.content_link:before {
 
 a:hover.content_link {
 	text-decoration: none;
-	background-image: url(../images/stripes/stripes_3_b.png)
 }
 
 a.content_link:after,
@@ -7493,7 +7471,6 @@ a.icon_bar {
 	border-style: solid;
 	position: relative;
 	background-color: #fff;
-	background-image: url(../images/stripes/stripes_3_b.png);
 	-webkit-box-shadow: inset 0 0 5px 0 rgba(0, 0, 0, .08);
 	box-shadow: inset 0 0 5px 0 rgba(0, 0, 0, .08)
 }
@@ -7744,7 +7721,6 @@ a.icon_bar_dribbble span.b {
 	padding: 5px 11px;
 	-webkit-border-radius: 4px;
 	border-radius: 4px;
-	background-image: url(../images/stripes/stripes_3_b.png);
 	background-color: #f8f8f8
 }
 
@@ -7769,7 +7745,6 @@ a.icon_bar_dribbble span.b {
 .timeline_items {
 	margin: 0 !important;
 	position: relative;
-	background: url(../images/timeline_top.png) no-repeat top center;
 	padding-top: 9px
 }
 
@@ -7795,12 +7770,10 @@ a.icon_bar_dribbble span.b {
 	width: 45%;
 	padding: 0 0 25px 55%;
 	position: relative;
-	background: url(../images/timeline_right.png) no-repeat top center
 }
 
 .timeline_items li:nth-child(even) {
 	padding: 0 55% 25px 0;
-	background: url(../images/timeline_left.png) no-repeat top center
 }
 
 .timeline_items li h3 {
@@ -7843,7 +7816,6 @@ a.icon_bar_dribbble span.b {
 	position: relative;
 	font-size: 15px;
 	line-height: 31px;
-	background: url(../images/stripes/textline.png) repeat-y
 }
 
 .timeline_items li .desc:before {
@@ -7853,7 +7825,6 @@ a.icon_bar_dribbble span.b {
 	position: absolute;
 	left: -122%;
 	top: 0;
-	background-image: url(../images/stripes/stripes_10_b.png)
 }
 
 .timeline_items li:nth-child(even) .desc:before {
@@ -9457,7 +9428,6 @@ ul.portfolio_grid li .image_frame {
 	padding: 2px 5px;
 	-webkit-border-radius: 4px;
 	border-radius: 4px;
-	background-image: url(../images/stripes/stripes_3_b.png)
 }
 
 .date_label:after,
@@ -16335,7 +16305,6 @@ body.table-hover:not(.woocommerce-page) table tr:hover td a {
 
 .ui-tabs .ui-tabs-nav {
 	display: block;
-	background-image: url(../images/bg_panel.png);
 	background-repeat: repeat-x;
 	background-position: left top;
 	border-style: solid;
@@ -16411,7 +16380,6 @@ body.table-hover:not(.woocommerce-page) table tr:hover td a {
 	-webkit-box-sizing: border-box;
 	-moz-box-sizing: border-box;
 	box-sizing: border-box;
-	background-image: url(../images/box_shadow.png);
 	background-repeat: repeat-x;
 	background-position: left top;
 	border-width: 0;
@@ -17373,7 +17341,6 @@ body.table-hover:not(.woocommerce-page) table tr:hover td a {
 		height: auto;
 		padding-left: 20px;
 		padding-right: 20px;
-		background-image: url(../images/bg_panel.png);
 		background-repeat: repeat-x;
 		background-position: left top;
 	}
@@ -23069,7 +23036,6 @@ body.nice-scroll:not(.layout-boxed) {
 	padding-left: 200px;
 	margin-bottom: 0;
 	padding-bottom: 40px;
-	background: url(../images/timeline_right.png) no-repeat 90px top;
 }
 
 .timeline .post-item:last-child {
@@ -23258,7 +23224,6 @@ body.nice-scroll:not(.layout-boxed) {
 .post-nav {
 	padding: 10px 10px 4px 130px;
 	margin-bottom: 20px;
-	background-image: url(../images/stripes/stripes_5_b.png);
 	-webkit-box-sizing: border-box;
 	-moz-box-sizing: border-box;
 	box-sizing: border-box;
@@ -25567,9 +25532,6 @@ a.action_button:hover {
 }
 
 /* Blockquote */
-.dark blockquote {
-	background-image: url(../images/textline_dark.png);
-}
 
 .dark blockquote:after {
 	background-image: url(../images/blockquote_dark.png)
