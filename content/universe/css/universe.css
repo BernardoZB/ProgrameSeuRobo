@@ -1100,10 +1100,6 @@
 		padding: 15px 0
 	}
 
-	#Top_bar.is-sticky .menu>li>a,
-	#Top_bar.is-sticky .menu>li>a span {
-		line-height: 30px
-	}
 
 	#Top_bar.is-sticky .menu>li>a:after {
 		top: auto;
@@ -2040,7 +2036,7 @@ a.action_button {
 #Side_slide #menu ul li.current_page_ancestor>a,
 #Side_slide #menu ul li.hover>a,
 #Side_slide #menu ul li:hover>a {
-	color: #FFFFFF;
+	color: #48AB77;
 }
 
 #Action_bar .contact_details {

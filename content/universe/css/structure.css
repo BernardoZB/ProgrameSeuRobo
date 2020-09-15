@@ -5544,11 +5544,6 @@ body {
 		padding: 15px 0;
 	}
 
-	#Top_bar.is-sticky .menu>li>a,
-	#Top_bar.is-sticky .menu>li>a span {
-		line-height: 30px;
-	}
-
 	#Top_bar.is-sticky .menu>li>a:after {
 		top: auto;
 		bottom: -4px;
