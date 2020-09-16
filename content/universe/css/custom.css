@@ -1,40 +1,173 @@
-html{scroll-behavior:smooth;}
-.menu_wrapper{display:none !important;}
-.plus-title{margin-left:40% !important;font-size:60px !important;}
-.btn-evento{color:white !important;}
-.title-psr{font-size:60px !important;}
-.btn-inscreva-se:hover{background-color:#D1DADF !important;color:#48AB77 !important;}
-.title-livro{font-size:30px;}
-.porque-prs{margin-top:15%;width:240px !important;margin-left:10%;text-align:justify}
-.paraquem-prs{margin-top:15%;text-align:justify;width:240px !important;margin-left:10%;}
-.espaÃ§amento{margin-top:5%;}
-.logo-delta{margin-top:180% !important;margin-left:150% !important;}
-.answer-accordion{color:white;background-color:transparent !important;text-align:center;}
-.answer-accordion-presencial{color:white;background-color:transparent !important;text-align:left;}
-.horario{width:100px;}
-.desc{text-align:center;}
-.logo-rodape{width:100%;}
-.rodape{margin-top:-5%;}
-.item-menu-main:hover{color:#48AB77 !important;}
-.title-beneficios{text-align:center;}
-.btn-footer{text-align:center;height:40px;width:240px;padding-top:15px !important;padding-left:20px !important;}
-.btn-evento{padding-left:17px !important;}
-.menu-item-principal:hover{color:#48AB77 !important;}
-@media (max-width:1085px){.menu_wrapper{display:block !important;}
-.menu-item-principal{display:none !important;}
-}
-@media (max-width:960px){.btn-footer{text-align:center;height:40px;width:190px;padding-top:15px !important;padding-left:0px !important;font-size:11px !important;}
-}
-@media (max-width:767px){.btn-footer{margin-top:10%;margin-left:20%;width:200px;padding-left:10% !important;}
-.logo-rodape{margin-left:20% !important;width:300px;}
-}
-@media (max-width:427px){.btn-inscreva-se{font-size: 13px !important;}
+html {
+  scroll-behavior: smooth;
 }
 
-@media (max-width:382px){.btn-inscreva-se{font-size: 11px !important;}
+.menu_wrapper {
+  display: none !important;
 }
-@media (max-width:380px){.btn-footer{margin-left:15%;width:170px;}
-.logo-rodape{margin-left:20% !important;width:200px;}
+
+.plus-title {
+  margin-left: 40% !important;
+  font-size: 60px !important;
 }
-@media (max-width:350px){.btn-inscreva-se{font-size: 10px !important;}
+
+.btn-evento {
+  color: white !important;
+}
+
+.title-psr {
+  font-size: 60px !important;
+}
+
+.btn-inscreva-se:hover {
+  background-color: #D1DADF !important;
+  color: #48AB77 !important;
+}
+
+.title-livro {
+  font-size: 30px;
+}
+
+.porque-prs {
+  margin-top: 15%;
+  width: 240px !important;
+  margin-left: 10%;
+  text-align: justify
+}
+
+.paraquem-prs {
+  margin-top: 15%;
+  text-align: justify;
+  width: 240px !important;
+  margin-left: 10%;
+}
+
+.espaÃ§amento {
+  margin-top: 5%;
+}
+
+.logo-delta {
+  margin-top: 180% !important;
+  margin-left: 150% !important;
+}
+
+.answer-accordion {
+  color: white;
+  background-color: transparent !important;
+  text-align: center;
+}
+
+.answer-accordion-presencial {
+  color: white;
+  background-color: transparent !important;
+  text-align: left;
+}
+
+.horario {
+  width: 100px;
+}
+
+.desc {
+  text-align: center;
+}
+
+.logo-rodape {
+  width: 100%;
+}
+
+.rodape {
+  margin-top: -5%;
+}
+
+.item-menu-main:hover {
+  color: #48AB77 !important;
+}
+
+.title-beneficios {
+  text-align: center;
+}
+
+.btn-footer {
+  text-align: center;
+  height: 40px;
+  width: 240px;
+  padding-top: 15px !important;
+  padding-left: 20px !important;
+}
+
+.btn-evento {
+  padding-left: 17px !important;
+}
+
+.menu-item-principal:hover {
+  color: #48AB77 !important;
+}
+
+.pc-quant {
+  margin-top: 15%;
+}
+
+@media (max-width:1085px) {
+  .menu_wrapper {
+    display: block !important;
+  }
+
+  .menu-item-principal {
+    display: none !important;
+  }
+}
+
+@media (max-width:960px) {
+  .btn-footer {
+    text-align: center;
+    height: 40px;
+    width: 190px;
+    padding-top: 15px !important;
+    padding-left: 0px !important;
+    font-size: 11px !important;
+  }
+}
+
+@media (max-width:767px) {
+  .btn-footer {
+    margin-top: 10%;
+    margin-left: 20%;
+    width: 200px;
+    padding-left: 10% !important;
+  }
+
+  .logo-rodape {
+    margin-left: 20% !important;
+    width: 300px;
+  }
+}
+
+@media (max-width:427px) {
+  .btn-inscreva-se {
+    font-size: 13px !important;
+  }
+}
+
+@media (max-width:382px) {
+  .btn-inscreva-se {
+    font-size: 11px !important;
+  }
+}
+
+@media (max-width:380px) {
+  .btn-footer {
+    margin-left: 15%;
+    width: 170px;
+  }
+
+  .logo-rodape {
+    margin-left: 20% !important;
+    width: 200px;
+  }
+}
+
+@media (max-width:350px) {
+  .btn-inscreva-se {
+    font-size: 10px !important;
+  }
 }
