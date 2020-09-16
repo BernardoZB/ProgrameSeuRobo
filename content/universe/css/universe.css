@@ -1291,6 +1291,11 @@ div.flv_float_right{float:right;}
 #Top_bar #logo img.logo-mobile{display:inline-block}
 .logo-overflow #Top_bar .logo{height:auto !important}
 }
+@media only screen and (max-width:451px){.icon-inscreva-se{display: none;}
+}
+
+@media only screen and (max-width:425px){.sup-inscreva-se{display: none;}
+}
 @media only screen and (max-width:767px){.blog-teaser li{width:100% !important}
 .blog-teaser li:not(:first-child){margin-top:10px}
 .blog-teaser.margin-no li{margin-top:0}
