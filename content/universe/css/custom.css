@@ -51,6 +51,7 @@ html {
   margin-left: 150% !important;
 }
 
+
 .answer-accordion {
   color: white;
   background-color: transparent !important;
@@ -147,6 +148,8 @@ html {
     font-size: 13px !important;
   }
 }
+
+
 
 @media (max-width:382px) {
   .btn-inscreva-se {
